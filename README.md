@@ -2,18 +2,11 @@
 <p align="center">
     <a href="https://pike-rag.azurewebsites.net/">🌐Online Demo</a>
     <a href="https://arxiv.org/abs/2501.11551">📊Technical Report</a>
-    <a href="https://openreview.net/pdf?id=PAjCdkkNaU">📑ICML 2025 Paper</a>
+  
 </p>
 
-[![License](https://img.shields.io/github/license/microsoft/PIKE-RAG)](https://github.com/microsoft/PIKE-RAG/blob/main/LICENSE)
-[![CodeQL](https://github.com/microsoft/PIKE-RAG/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/microsoft/PIKE-RAG/actions/workflows/github-code-scanning/codeql)
-[![Release](https://img.shields.io/github/v/release/microsoft/PIKE-RAG)](https://github.com/microsoft/PIKE-RAG/releases)
-[![ReleaseDate](https://img.shields.io/github/release-date-pre/microsoft/PIKE-RAG)](https://github.com/microsoft/PIKE-RAG/releases)
-[![Commits](https://img.shields.io/github/commits-since/microsoft/PIKE-RAG/latest/main)](https://github.com/microsoft/PIKE-RAG/commits/main)
-[![Pull Requests](https://img.shields.io/github/issues-pr/microsoft/PIKE-RAG)](https://github.com/microsoft/PIKE-RAG/pulls)
-[![Issues](https://img.shields.io/github/issues/microsoft/PIKE-RAG)](https://github.com/microsoft/PIKE-RAG/issues)
 
-# PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation
+
 
 ## Why codegen?
 
